@@ -95,6 +95,6 @@ User Story: As a user, I should be able to see my overall progress so that I kno
 User Story: As a user, I should be able to successfully log out of the spaced repetition app so that I can rest my brain
 
     Acceptance criteria:
-        When I click on the logout button, I should all my session data should be removed from the UI and I should 
+        When I click on the logout button, all my session data should be removed from the UI and I should 
         see a message that I have successfully logged out
       
