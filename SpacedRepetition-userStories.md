@@ -4,7 +4,8 @@
 User Story: As an user, I want to know the name and the purpose of the spaced repetition application, so that I can decide whether I want to continue interacting with it.
 
     Acceptance Criteria:
-        When I visit the the spaced repetition site, I see the name of the learning app, and a  brief description of what the app does.
+        When I visit the the spaced repetition site, I see the name of the learning app, and a  brief description 
+        of what the app does.
 
 ----
 
@@ -15,7 +16,8 @@ User Story: As an user, I need to create an account so that I can use the app.
         I can enter my name, username, and password 
         My password should be at least 10 characters long
         If all information is correct, upon clicking the submit button, I should be taken a login page
-        If the information is not correct, I should be given proper error messages and option to enter the correct information
+        If the information is not correct, I should be given proper error messages and option to enter the 
+        correct information
      
 ---
 
@@ -24,8 +26,10 @@ User Story: As a registered user, I should be able to log into my account, so th
     Acceptance criteria:
         When I visit the the spaced repetition site, I should be able to go to a login page
         I can enter my username and password
-        If my username and password is correct then the app should accept them and greet me with a message "Hello myName"
-        If my username and password is incorrect then the app should reject them and the give me meaningful message so I can try to log in again
+        If my username and password is correct then the app should accept them and greet me with a message 
+        "Hello myName"
+        If my username and password is incorrect then the app should reject them and the give me meaningful 
+        message so I can try to log in again
 
 ---
 
@@ -42,8 +46,8 @@ User Story: As a user, I am given feedback to my answer so that I learn the word
 
     Acceptance criteria:
         When I click on the submit button, I should get a response for correct answer
-        If the answer is wrong, I should get a feedback as well as the correct answer so I can learn the correct answer and get it   
-        right the next time.
+        If the answer is wrong, I should get a feedback as well as the correct answer so I can learn 
+        the correct answer and get it right the next time.
       
 ---
 
@@ -83,13 +87,14 @@ User Story: As a user, I should be able to see my overall progress so that I kno
 
     Acceptance criteria:
         When I log into my account, I should be able to click a progress button and see my overall progress
-        As I am learning, I should be able to click on the progress button and see my overall progress updated to reflect my current progress 
+        As I am learning, I should be able to click on the progress button and see my overall progress updated 
+        to reflect my current progress 
       
 ---
 
 User Story: As a user, I should be able to successfully log out of the spaced repetition app so that I can rest my brain
 
     Acceptance criteria:
-        When I click on the logout button, I should all my session data should be removed from the UI and I should see a message that I have    
-        successfully logged out
+        When I click on the logout button, I should all my session data should be removed from the UI and I should 
+        see a message that I have successfully logged out
       
